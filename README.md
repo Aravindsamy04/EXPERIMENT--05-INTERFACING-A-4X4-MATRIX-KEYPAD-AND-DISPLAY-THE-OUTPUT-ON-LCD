@@ -181,8 +181,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-## DEVELOPED BY : ADHITHIYAN.K
-## REGISTER NO : 212222230006
+## DEVELOPED BY : ARAVIND SAMY .P
+## REGISTER NO : 212222230011
 ```
 #include "main.h"
 #include"stdbool.h"
@@ -337,12 +337,13 @@ else if(!col2)
 }
 ```
 ## Output screen shots of proteus  :
- ![op proteus](https://github.com/AdhithiyanK/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/121029258/a37f967f-3125-47b1-9979-09183db93083)
+![1](https://github.com/Aravindsamy04/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/113497037/b302f01f-4b9b-4e54-b688-3d986190a18c)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![circut 1](https://github.com/AdhithiyanK/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/121029258/c7cb4015-b3d2-449f-8ea1-1e2eeaf63533)
+ !
 
- 
+ ![2](https://github.com/Aravindsamy04/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/113497037/394b9dd7-503b-4c5f-98f8-4613ed696693)
+
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
